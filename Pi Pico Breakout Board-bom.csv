@@ -1,0 +1,3 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB","This is the PCB with the sadly minimum allowed which is 5",1,23.00,"https://cart.jlcpcb.com/shopcart/cart/","JLCPCB"
+"Parts for PCB"," This is what the parts will plug into and what will be soldered onto the PCB.",1,19.00,"https://www.digikey.com/ordering/shoppingcart","Digikey"
